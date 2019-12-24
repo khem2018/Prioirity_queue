@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 class Priority_queue:
     class _Node:
         def __init__(self, data, priority):
